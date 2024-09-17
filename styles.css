@@ -1,0 +1,41 @@
+body {
+    color: rgb(54, 68, 91);
+    background: rgb(60, 139, 230);
+    margin-bottom: 100px;
+}
+header {
+    border-bottom: solid 4px rgb(58, 17, 59);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(31, 61, 100);
+}
+body {
+    color: rgb(66, 114, 216);
+    background: rgb(138, 96, 255);
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+.Chamada {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+
+}
+  
+img{       
+            
+    height: 150px
+}
